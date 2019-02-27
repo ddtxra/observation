@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+.mat-card {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.observation {
+	width: 220px;
+}
+
+.observation_sha {
+	float: left;
+	width: 20%;
+}
+
+.observation_obs {
+	display: inline-block;
+}
+
+.observation_ind {
+	float: right;
+}
+
+.observation {
+	font-size: 12px;
+}
+
+.observation-indicator {
+	position: absolute;
+	bottom: 20px;
+	left: 10px;
+}
+
+.subject-indicator {
+	position: absolute;
+	top: 20px;
+	right: 30px;
+}
